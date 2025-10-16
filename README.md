@@ -20,8 +20,7 @@ Each time you make a GET request to `/me`, the endpoint responds with:
 
 ## 🌐 Live API Link
 
-> 🔗 https://your-live-api-url/me 
-
+> 🔗 https://stage-0-task.onrender.com/me
 ---
 
 ## 📡 Endpoint
@@ -30,4 +29,4 @@ Each time you make a GET request to `/me`, the endpoint responds with:
 
 Example using `curl`:
 ```bash
-curl https://your-live-api-url/me
+curl https://stage-0-task.onrender.com/me
